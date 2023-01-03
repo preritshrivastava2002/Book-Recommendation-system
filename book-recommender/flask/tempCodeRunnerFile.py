@@ -1,0 +1,1 @@
+msilib.schema
